@@ -1,0 +1,40 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212721166695@s.whatsapp.net',
+    fromMe: false,
+    id: 'B10F3212D615A54AD7A6F2AC90344A78',
+    participant: undefined
+  },
+  messageTimestamp: 1692503286,
+  pushName: 'Daniel ESPINDOLA MORALES',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5212721166695'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212721166695@s.whatsapp.net',
+    fromMe: false,
+    id: 'C9BBB2ED888255980FD4CF01F859531B',
+    participant: undefined
+  },
+  messageTimestamp: 1692503290,
+  pushName: 'Daniel ESPINDOLA MORALES',
+  broadcast: false,
+  message: Message {
+    conversation: 'Feria',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Feria',
+  from: '5212721166695'
+}
